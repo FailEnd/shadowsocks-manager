@@ -1,0 +1,148 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "shadowsocks-manager",
+        "scope": null,
+        "escapedName": "shadowsocks-manager",
+        "name": "shadowsocks-manager",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/root"
+    ]
+  ],
+  "_from": "shadowsocks-manager@latest",
+  "_hasShrinkwrap": false,
+  "_id": "shadowsocks-manager@0.27.7",
+  "_inCache": true,
+  "_location": "/shadowsocks-manager",
+  "_nodeVersion": "8.11.4",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/shadowsocks-manager_0.27.7_1541028533875_0.9228497072289039"
+  },
+  "_npmUser": {
+    "name": "gyteng",
+    "email": "igyteng@gmail.com"
+  },
+  "_npmVersion": "5.6.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "shadowsocks-manager",
+    "scope": null,
+    "escapedName": "shadowsocks-manager",
+    "name": "shadowsocks-manager",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/shadowsocks-manager/-/shadowsocks-manager-0.27.7.tgz",
+  "_shasum": "9f544b8e9ecd16b116b52da20f7c9c6f383eea27",
+  "_shrinkwrap": null,
+  "_spec": "shadowsocks-manager",
+  "_where": "/root",
+  "author": {
+    "name": "Gu Yuteng",
+    "email": "igyteng@gmail.com"
+  },
+  "bin": {
+    "ssmgr": "./bin/ssmgr"
+  },
+  "bugs": {
+    "url": "https://github.com/shadowsocks/shadowsocks-manager/issues"
+  },
+  "dependencies": {
+    "alipay-ftof": "0.1.4",
+    "body-parser": "^1.15.2",
+    "commander": "^2.19.0",
+    "compression": "^1.7.3",
+    "connect-session-knex": "^1.4.0",
+    "cors": "^2.8.4",
+    "ejs": "^2.6.1",
+    "express": "^4.16.0",
+    "express-session": "^1.15.6",
+    "express-validator": "^5.3.0",
+    "fs-extra": "^7.0.0",
+    "inquirer": "^6.2.0",
+    "js-yaml": "^3.12.0",
+    "knex": "^0.15.2",
+    "later": "^1.2.0",
+    "lodash": "^4.17.11",
+    "log4js": "^1.0.0",
+    "moment": "^2.22.2",
+    "mysql": "^2.16.0",
+    "nodemailer": "^4.6.8",
+    "paypal-rest-sdk": "^1.8.1",
+    "qr-image": "^3.2.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "socks": "^2.2.1",
+    "sqlite3": "^4.0.3",
+    "uuid": "^3.3.2",
+    "web-push": "^3.3.3",
+    "ws": "^6.1.0"
+  },
+  "description": "A shadowsocks manager tool for multi user and traffic control.",
+  "devDependencies": {
+    "@babel/cli": "^7.1.2",
+    "@babel/core": "^7.1.2",
+    "@babel/polyfill": "^7.0.0",
+    "@babel/preset-env": "^7.1.0",
+    "ajv": "^6.5.4",
+    "babel-eslint": "^10.0.1",
+    "babel-loader": "^8.0.4",
+    "del": "^3.0.0",
+    "eslint": "^5.7.0",
+    "gulp": "^4.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean-css": "^3.10.0",
+    "gulp-concat": "^2.6.1",
+    "uglifyjs-webpack-plugin": "^2.0.1",
+    "webpack": "^4.23.0",
+    "webpack-stream": "^5.1.1"
+  },
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-DyOXyd9+eMtqbyk1KOEl1rJ298oRPawgWSA3ay2Ci2cyE1wW6NVJ9he7Paf/Rx/2NE3a0ER7mw+CHmytuXwuGw==",
+    "shasum": "9f544b8e9ecd16b116b52da20f7c9c6f383eea27",
+    "tarball": "https://registry.npmjs.org/shadowsocks-manager/-/shadowsocks-manager-0.27.7.tgz",
+    "fileCount": 580,
+    "unpackedSize": 8158265,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJb2jq2CRA9TVsSAnZWagAArlMP/ig8seoQGRJjWk77bWs3\n3URF7U+C0IYojwMBjvvZ9EhRFOEQdOOyKaIOL2WzomhZMzhXMAbAujxgInAj\noOnVTafd6pPfliWAMwb8+coPJg5lZ8jtkMD68aLsPm/Q4vLFrLKf/IrYHeUo\nd3qfJNza98SuXAAGtY2qwtVy4Ykm5DSt+dgzm+GWyW6zLnQ/GkO/Bh1ujfX7\nDGTusaQCHUnImMGw/W4K2qZ10clZHhxp5QQiVwxgPlLxKe3QvBXtxDO8S1TS\nbQPfH7nL3YxUE/WHc3RfZEp06JEqA0IOk/rbg/4rv1D9NHo25rNSyc4P+TqD\nDK5YNpFDD0QJOZYPpXJOontD7ImQP3ODCZhGng6HpDlLB1128XMk54b4KUrX\nEd0HW2zryVtI4bzGvn59OiYmJWGLgHIAYtgN24buwImZchnfv4Fp3z0k+qUG\njaT/BMRLeWNIpa3eGCG0ae5lwl91Wv5cCJ8XHG279aOM/kt8o0jM+g4BWhHJ\nyurOpUYyG0MRD9HmuaYxGasx04vDu9ZLDzp8QhXNUyXe7BOhxiGCM4LsTpFK\nsw5uD/RloySsSi9OdvP8/bayKXnJ83KXapsV8aJLYBklP+gIm52T3vGWvdNj\nRLbAyEffwDCxA71PytpOCIEzI4SdircnhefdbFsZzy/lDxQG/J7ZcE/yJaZ1\nn3N0\r\n=DAxy\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "gitHead": "b662452d6d139a14796e439f6755f8f3a7f2f9c2",
+  "homepage": "https://github.com/shadowsocks/shadowsocks-manager#readme",
+  "keywords": [
+    "ssmgr",
+    "shadowsocks",
+    "manager",
+    "gfw"
+  ],
+  "license": "GPL-3.0",
+  "main": "server.js",
+  "maintainers": [
+    {
+      "name": "gyteng",
+      "email": "igyteng@gmail.com"
+    }
+  ],
+  "name": "shadowsocks-manager",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadowsocks/shadowsocks-manager.git"
+  },
+  "scripts": {
+    "build": "gulp",
+    "prepare": "gulp",
+    "prepublishOnly": "gulp",
+    "start": "node server.js"
+  },
+  "version": "0.27.7"
+}

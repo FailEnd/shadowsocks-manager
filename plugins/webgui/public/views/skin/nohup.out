@@ -1,0 +1,94 @@
+/usr/lib/node_modules/shadowsocks-manager/
+[32m[2018-11-14 14:46:36.153] [INFO] system - [39mSystem start.
+/usr/lib/node_modules/shadowsocks-manager/
+[32m[2018-11-14 14:46:45.672] [INFO] system - [39mSystem start.
+[31m[2018-11-14 14:46:46.918] [ERROR] webgui - [39mexpress server error: Error: listen EADDRINUSE 0.0.0.0:80
+/usr/lib/node_modules/shadowsocks-manager/
+[32m[2018-11-14 15:34:53.791] [INFO] system - [39mSystem start.
+[31m[2018-11-14 15:56:00.037] [ERROR] system - [39m{ code: 1 }
+[31m[2018-11-14 15:56:00.042] [ERROR] flowSaver - [39mError: ssmgr[s] return an error code [47.244.110.193:6001]
+    at receiveData.then.message (/usr/lib/node_modules/shadowsocks-manager/services/manager.js:75:18)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[31m[2018-11-14 16:04:00.034] [ERROR] system - [39m{ code: 1 }
+[31m[2018-11-14 16:04:00.034] [ERROR] flowSaver - [39mError: ssmgr[s] return an error code [47.244.110.193:6001]
+    at receiveData.then.message (/usr/lib/node_modules/shadowsocks-manager/services/manager.js:75:18)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[31m[2018-11-14 16:05:00.083] [ERROR] system - [39m{ code: 1 }
+[31m[2018-11-14 16:05:00.084] [ERROR] flowSaver - [39mError: ssmgr[s] return an error code [47.244.110.193:6001]
+    at receiveData.then.message (/usr/lib/node_modules/shadowsocks-manager/services/manager.js:75:18)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[31m[2018-11-14 16:29:00.046] [ERROR] system - [39m{ code: 1 }
+[31m[2018-11-14 16:29:00.047] [ERROR] flowSaver - [39mError: ssmgr[s] return an error code [47.244.110.193:6001]
+    at receiveData.then.message (/usr/lib/node_modules/shadowsocks-manager/services/manager.js:75:18)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[31m[2018-11-14 16:44:00.032] [ERROR] system - [39m{ code: 1 }
+[31m[2018-11-14 16:44:00.033] [ERROR] flowSaver - [39mError: ssmgr[s] return an error code [47.244.110.193:6001]
+    at receiveData.then.message (/usr/lib/node_modules/shadowsocks-manager/services/manager.js:75:18)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[31m[2018-11-14 16:46:00.052] [ERROR] system - [39m{ code: 1 }
+[31m[2018-11-14 16:46:00.053] [ERROR] flowSaver - [39mError: ssmgr[s] return an error code [47.244.110.193:6001]
+    at receiveData.then.message (/usr/lib/node_modules/shadowsocks-manager/services/manager.js:75:18)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[31m[2018-11-14 16:52:00.037] [ERROR] system - [39m{ code: 1 }
+[31m[2018-11-14 16:52:00.037] [ERROR] flowSaver - [39mError: ssmgr[s] return an error code [47.244.110.193:6001]
+    at receiveData.then.message (/usr/lib/node_modules/shadowsocks-manager/services/manager.js:75:18)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[31m[2018-11-14 17:01:00.029] [ERROR] system - [39m{ code: 1 }
+[31m[2018-11-14 17:01:00.029] [ERROR] flowSaver - [39mError: ssmgr[s] return an error code [47.244.110.193:6001]
+    at receiveData.then.message (/usr/lib/node_modules/shadowsocks-manager/services/manager.js:75:18)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[31m[2018-11-14 17:12:00.039] [ERROR] system - [39m{ code: 1 }
+[31m[2018-11-14 17:12:00.040] [ERROR] flowSaver - [39mError: ssmgr[s] return an error code [47.244.110.193:6001]
+    at receiveData.then.message (/usr/lib/node_modules/shadowsocks-manager/services/manager.js:75:18)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[31m[2018-11-14 17:14:00.064] [ERROR] system - [39m{ code: 1 }
+[31m[2018-11-14 17:14:00.065] [ERROR] flowSaver - [39mError: ssmgr[s] return an error code [47.244.110.193:6001]
+    at receiveData.then.message (/usr/lib/node_modules/shadowsocks-manager/services/manager.js:75:18)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[31m[2018-11-14 17:22:00.039] [ERROR] system - [39m{ code: 1 }
+[31m[2018-11-14 17:22:00.040] [ERROR] flowSaver - [39mError: ssmgr[s] return an error code [47.244.110.193:6001]
+    at receiveData.then.message (/usr/lib/node_modules/shadowsocks-manager/services/manager.js:75:18)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[31m[2018-11-14 17:36:34.626] [ERROR] webgui - [39mUser[xk0720@hotmail.com] login fail: user not exists
+[31m[2018-11-14 17:36:34.633] [ERROR] express - [39m[undefined] POST 403 47ms /api/home/login
+[31m[2018-11-14 17:44:00.036] [ERROR] system - [39m{ code: 1 }
+[31m[2018-11-14 17:44:00.036] [ERROR] flowSaver - [39mError: ssmgr[s] return an error code [47.244.110.193:6001]
+    at receiveData.then.message (/usr/lib/node_modules/shadowsocks-manager/services/manager.js:75:18)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[31m[2018-11-14 17:46:00.033] [ERROR] system - [39m{ code: 1 }
+[31m[2018-11-14 17:46:00.033] [ERROR] flowSaver - [39mError: ssmgr[s] return an error code [47.244.110.193:6001]
+    at receiveData.then.message (/usr/lib/node_modules/shadowsocks-manager/services/manager.js:75:18)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[31m[2018-11-14 17:48:00.052] [ERROR] system - [39m{ code: 1 }
+[31m[2018-11-14 17:48:00.052] [ERROR] flowSaver - [39mError: ssmgr[s] return an error code [47.244.110.193:6001]
+    at receiveData.then.message (/usr/lib/node_modules/shadowsocks-manager/services/manager.js:75:18)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[31m[2018-11-14 17:56:00.037] [ERROR] system - [39m{ code: 1 }
+[31m[2018-11-14 17:56:00.037] [ERROR] flowSaver - [39mError: ssmgr[s] return an error code [47.244.110.193:6001]
+    at receiveData.then.message (/usr/lib/node_modules/shadowsocks-manager/services/manager.js:75:18)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[31m[2018-11-14 17:58:00.036] [ERROR] system - [39m{ code: 1 }
+[31m[2018-11-14 17:58:00.036] [ERROR] flowSaver - [39mError: ssmgr[s] return an error code [47.244.110.193:6001]
+    at receiveData.then.message (/usr/lib/node_modules/shadowsocks-manager/services/manager.js:75:18)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)
+[31m[2018-11-14 18:08:00.658] [ERROR] system - [39m{ code: 1 }
+[31m[2018-11-14 18:08:00.658] [ERROR] flowSaver - [39mError: ssmgr[s] return an error code [47.244.110.193:6001]
+    at receiveData.then.message (/usr/lib/node_modules/shadowsocks-manager/services/manager.js:75:18)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:189:7)

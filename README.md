@@ -195,4 +195,3 @@ If you find this project helpful, please consider making a donation:
 
 * WeChat Pay  
 <img src="https://github.com/gyteng/gyteng.github.com/raw/master/media/pic/wechat.png" width="160">
-# shadowsocks-manager
